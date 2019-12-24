@@ -28,19 +28,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/willianjusten/btc-converter.git"
+    "url": "git+https://github.com/TacioAntonio/bitcoin-converter.git"
   },
   "keywords": [
     "js",
     "tdd",
     "library"
   ],
-  "author": "Willian Justen <willianjustenqui@gmail.com> (https://willianjusten.com.br/)",
+  "author": "TacioAntonio <tacioantonio10@gmail.com> (https://tacioantonio.github.io/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/willianjusten/btc-converter/issues"
+    "url": "https://github.com/TacioAntonio/bitcoin-converter/issues"
   },
-  "homepage": "https://github.com/willianjusten/btc-converter#readme",
+  "homepage": "https://github.com/TacioAntonio/bitcoin-converter#readme",
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-polyfill": "^6.26.0",
