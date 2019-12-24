@@ -3,7 +3,7 @@
 ![Bitcoin](./img/bitcoin.gif)
 > Uma CLI para converter Bitcoin para qualquer moeda fornecida.
 
-## Instalaçao
+## Instalação
 
 ```sh
 $ git clone https://github.com/TacioAntonio/bitcoin-converter.git
